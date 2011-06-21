@@ -1,0 +1,4 @@
+<div>
+  This plugin allows builds to be automatically terminated after the
+  specified size of the log file has elapsed.
+</div>
